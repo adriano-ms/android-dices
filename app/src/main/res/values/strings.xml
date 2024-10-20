@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dices</string>
+    <string name="txt_name">Adriano Maciel Sanchez</string>
+    <string name="txt_ra">1110482313018</string>
+    <string name="bt_roll">Roll</string>
+    <string name="sp_none_option">None</string>
+</resources>
